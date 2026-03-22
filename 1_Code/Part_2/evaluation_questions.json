@@ -1,205 +1,214 @@
 [
   {
     "id": "q001",
-    "question": "What is Faree known for?",
-    "ground_truth": "Faree is a 2021 Maldivian film written and directed by Ahmed Hisham Saeed.",
-    "source_url": "https://en.wikipedia.org/wiki/Faree",
-    "source_id": "a5cfd870-5a56-4c6e-9381-2c0615fddac6",
-    "category": "factual",
-    "domain": "arts"
-  },
-  {
-    "id": "q002",
-    "question": "What is Mahmoud Kafil Uddin known for?",
-    "ground_truth": "Kafiluddin Mahmood was a Bangladeshi administrator and minister in the Shahabuddin Ahmed Cabinet.",
-    "source_url": "https://en.wikipedia.org/wiki/Mahmoud_Kafil_Uddin",
-    "source_id": "fcaf7144-dc48-465e-86e4-69967fc95cd8",
+    "question": "What is Julius Caesar known for?",
+    "ground_truth": "Gaius Julius Caesar[a] (12 or 13 July 100 BC – 15 March 44 BC) was a Roman general and statesman.",
+    "source_url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "source_id": "43e5a6b4-e7b9-4b2b-bc63-f22652c00dbb",
     "category": "factual",
     "domain": "people"
   },
   {
-    "id": "q003",
-    "question": "Where is 9/11 Heroes Medal of Valor located?",
-    "ground_truth": "The 9/11 Heroes Medal of Valor is a decoration in the United States, created specifically to honor the 442 public safety officers who were killed in the line of duty during the September 11, 2001 terrorist attacks at the World Trade Center and the empty wing of The Pentagon.",
-    "source_url": "https://en.wikipedia.org/wiki/9/11_Heroes_Medal_of_Valor",
-    "source_id": "132a3cbe-684a-4bb4-9ba9-8575f226354a",
+    "id": "q002",
+    "question": "What is Forum Hadriani known for?",
+    "ground_truth": "Forum Hadriani, in the modern town of Voorburg, was the northernmost Roman city on the European continent and the second oldest city of the Netherlands.",
+    "source_url": "https://en.wikipedia.org/wiki/Forum_Hadriani",
+    "source_id": "a52948b4-1ab5-4cfd-abdb-80c88d12b289",
     "category": "factual",
     "domain": "places"
   },
   {
+    "id": "q003",
+    "question": "Where is First-wave feminism located?",
+    "ground_truth": "First-wave feminism was a period of feminist activity and thought that occurred during the 19th and early 20th century throughout the Western world.",
+    "source_url": "https://en.wikipedia.org/wiki/First-wave_feminism",
+    "source_id": "a8cf31ea-435e-46a9-ab1a-4056d76bbadd",
+    "category": "factual",
+    "domain": "events"
+  },
+  {
     "id": "q004",
-    "question": "When was Lenny Mirra established/born?",
-    "ground_truth": "Leonard \"Lenny\" Mirra is an American former state legislator who was in the Massachusetts House of Representatives.",
-    "source_url": "https://en.wikipedia.org/wiki/Lenny_Mirra",
-    "source_id": "9ef6d3e5-be3b-44bb-ba84-3802e36eb72d",
+    "question": "What does Quarters! refer to?",
+    "ground_truth": "Quarters! is the sixth studio album by Australian psychedelic rock band King Gizzard & the Lizard Wizard.",
+    "source_url": "https://en.wikipedia.org/wiki/Quarters!",
+    "source_id": "3a35d4cd-67d0-4218-8a38-49e6977f5067",
     "category": "factual",
     "domain": "people"
   },
   {
     "id": "q005",
-    "question": "What is Molly Springfield's background and current work?",
-    "ground_truth": "Molly Springfield is an American artist whose work includes labor-inteinsive drawing of printed texts and visual explorations of the history of information and media-ted representation.",
-    "source_url": "https://en.wikipedia.org/wiki/Molly_Springfield",
-    "source_id": "3566c5a7-5a27-4bcc-903a-ddaea83aed71",
+    "question": "What does Abraham Lincoln refer to?",
+    "ground_truth": "Abraham Lincoln[b] (February 12, 1809 – April 15, 1865) was the 16th president of the United States, serving from 1861 until his assassination in 1865.",
+    "source_url": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "source_id": "0a4737db-84d8-4de6-ba73-05f9cd4d161c",
     "category": "factual",
     "domain": "people"
   },
   {
     "id": "q006",
-    "question": "What are The Globe Building, Beebe Building and Hotel Cecil located in Downtown Seaptet, and what is their significance in the history of Washington, United States?",
-    "ground_truth": "They are a trio of historic office/hotel buildings located on the west side of 1st Avenue between Madison and Spring streets. The three buildings were constructed from late 1900 to 1901 for Syracuse-based investors Clifford Beebe and William Nottingham by the Clise Investment Company, headed by James Clise (1855–1938), as a result of the Alaska",
-    "source_url": "https://en.wikipedia.org/wiki/Globe_Building,_Beebe_Building_and_Hotel_Cecil",
-    "source_id": "4195f87e-a2ee-4893-bfd9-05f29fee75be",
-    "category": "factual",
-    "domain": "places"
-  },
-  {
-    "id": "q007",
-    "question": "What is the percentage of Earth's terrestrial area covered by tropical forest ecosystems, as mentioned in the given text?",
-    "ground_truth": "The answer is 50%.",
-    "source_url": "https://en.wikipedia.org/wiki/Biodiversity",
-    "source_id": "8270acd4-dade-46ff-b7ef-7cd41dee932d",
+    "question": "What does DNA refer to?",
+    "ground_truth": "Deoxyribonucleic acid (pronunciationⓘ; DNA) is a polymer composed of two polynucleotide chains that coil around each other to form a double helix.",
+    "source_url": "https://en.wikipedia.org/wiki/DNA",
+    "source_id": "b9b0be27-273b-4785-9b0d-5438a23a47b9",
     "category": "factual",
     "domain": "science"
   },
   {
-    "id": "q008",
-    "question": "What is the oldest and most prestigious of the three Grand Tours, which includes the Tour de France?",
-    "ground_truth": "The Gironde d'Italie and Vuelette à España.",
-    "source_url": "https://en.wikipedia.org/wiki/Tour_de_France",
-    "source_id": "320a408a-fb37-4a5e-9bad-a71b903176dd",
+    "id": "q007",
+    "question": "What does Sondershausen Palace refer to?",
+    "ground_truth": "From an architectural and art historical point of view Sondershausen Palace can be considered one of the most important palace complexes in Thuringia.",
+    "source_url": "https://en.wikipedia.org/wiki/Sondershausen_Palace",
+    "source_id": "6371cb1d-9875-4083-9c96-6d8f9d5154af",
     "category": "factual",
-    "domain": "sports"
+    "domain": "other"
+  },
+  {
+    "id": "q008",
+    "question": "What is Holm Jalgpallipark known for?",
+    "ground_truth": "Holm Jalgpallipark (English: Holm Football Park) is a football stadium in Tartu, Estonia.",
+    "source_url": "https://en.wikipedia.org/wiki/Holm_Jalgpallipark",
+    "source_id": "ceb32f8a-880b-4b67-bf8a-79b4aa395132",
+    "category": "factual",
+    "domain": "arts"
   },
   {
     "id": "q009",
-    "question": "Who is List of Superfund sites in Idaho?",
-    "ground_truth": "This is a list of Superfund sites in Idaho, United States of America, as designated by the United States Environmental Protection Agency under the Comprehensive Environmental Response, Compensation, and Liability Act (CERCLA).",
-    "source_url": "https://en.wikipedia.org/wiki/List_of_Superfund_sites_in_Idaho",
-    "source_id": "b0befe4c-2c99-4d6b-9dda-0a59d9f0c100",
+    "question": "What is Biathlon World Championships 2008 known for?",
+    "ground_truth": "The 42nd Biathlon World Championships were held in Östersund, Sweden from 8 to 17 February 2008.",
+    "source_url": "https://en.wikipedia.org/wiki/Biathlon_World_Championships_2008",
+    "source_id": "d2d108e7-ac7a-4504-a731-1565b4ae2134",
     "category": "factual",
-    "domain": "places"
+    "domain": "events"
   },
   {
     "id": "q010",
-    "question": "What is Greenpeace's goal, as stated in the given text?",
-    "ground_truth": "The organization aims to ensure the ability of the Earth to nurtee life in all its diversity.",
-    "source_url": "https://en.wikipedia.org/wiki/Greenpeace",
-    "source_id": "962a88d2-02dd-4b2c-bfc7-a2d4a521e217",
-    "category": "factual",
-    "domain": "organization"
-  },
-  {
-    "id": "q011",
-    "question": "Who is Spruce Run Evangelical Lutheran Zion Church?",
-    "ground_truth": "Spruce Run Evangelical Lutheran Zion Church, also known as Spruce Run Lutheran Church, is located at 442 West Hill Road in the Spruce Run section of Lebanon Township in Hunterdon County, New Jersey.",
-    "source_url": "https://en.wikipedia.org/wiki/Spruce_Run_Evangelical_Lutheran_Zion_Church",
-    "source_id": "424dac94-888f-4f74-acb8-853f534aca0f",
+    "question": "What is German submarine U-877 known for?",
+    "ground_truth": "German submarine U-877 was a Type IXC/40 U-boat of Nazi Germany's Kriegsmarine during the Second World War.",
+    "source_url": "https://en.wikipedia.org/wiki/German_submarine_U-877",
+    "source_id": "c64ecede-df4c-4a53-a75a-224d645511e4",
     "category": "factual",
     "domain": "places"
   },
   {
+    "id": "q011",
+    "question": "When was Cleopatra established/born?",
+    "ground_truth": "Cleopatra VII Thea Philopator (Koine Greek: Κλεοπάτρα Θεά Φιλοπάτωρ, lit.",
+    "source_url": "https://en.wikipedia.org/wiki/Cleopatra",
+    "source_id": "06080b04-a1c0-4000-97fb-09fc02eb0c54",
+    "category": "factual",
+    "domain": "people"
+  },
+  {
     "id": "q012",
-    "question": "What is Social media measurement known for?",
-    "ground_truth": "Social media measurement, also called social media controlling, is the management practice of evaluating successful social media communications of brands, companies, or other organizations.",
-    "source_url": "https://en.wikipedia.org/wiki/Social_media_measurement",
-    "source_id": "b98b5a26-d8c1-477b-9c50-b42886c93cdf",
+    "question": "What is Zenepos totolirata known for?",
+    "ground_truth": "Daphnella totolirata Suter, 1908 Zenepos totolirata is a species of sea snail, a marine gastropod mollusk in the family Raphitomidae.",
+    "source_url": "https://en.wikipedia.org/wiki/Zenepos_totolirata",
+    "source_id": "0e7f42aa-7a33-4e9e-828f-f03d23d88366",
     "category": "factual",
     "domain": "other"
   },
   {
     "id": "q013",
-    "question": "Who is Magnús Eiríksson?",
-    "ground_truth": "Magnús Eiríksson (22 June 1806 – 3 July 1881) was an Icelandic theologian and a contemporary critic of Søren Aabye Kierkegaard (1813–1855) and Hans Lassen Martensen (1808–1884) in Copenhagen.",
-    "source_url": "https://en.wikipedia.org/wiki/Magn%C3%BAs_Eir%C3%ADksson",
-    "source_id": "a502e484-0a56-4b1d-a83b-e8823fafa99b",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q014",
-    "question": "What does Brazil refer to?",
-    "ground_truth": "Brazil,[c] officially the Federative Republic of Brazil,[d] is the largest country in South America.",
-    "source_url": "https://en.wikipedia.org/wiki/Brazil",
-    "source_id": "2d908884-857a-41c1-9f9d-50976eb8f7cf",
-    "category": "factual",
-    "domain": "places"
-  },
-  {
-    "id": "q015",
-    "question": "Where is Lake Elizabeth (Kandiyohi County, Minnesota) located?",
-    "ground_truth": "Lake Elizabeth is a shallow glacial lake in Kandiyohi County, in the U.",
-    "source_url": "https://en.wikipedia.org/wiki/Lake_Elizabeth_(Kandiyohi_County,_Minnesota)",
-    "source_id": "50ec3480-451e-449f-83f7-afa75f92d02c",
-    "category": "factual",
-    "domain": "places"
-  },
-  {
-    "id": "q016",
-    "question": "What is Elon Musk's net worth as of January 2026, according to Forbes?",
-    "ground_truth": "As of January 2026, Elon Musk's net worth was estimated at around US$788 billion.",
-    "source_url": "https://en.wikipedia.org/wiki/Elon_Musk",
-    "source_id": "30312f76-9a11-4304-9465-4ac99100eca4",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q017",
-    "question": "What team represented the Māori community of New Zealand in the 2001 Pacifica Cup cricket tournament?",
-    "ground_truth": "The New Zealand Māori cricket team.",
-    "source_url": "https://en.wikipedia.org/wiki/New_Zealand_M%C4%81ori_cricket_team",
-    "source_id": "17416278-1686-4896-8dd7-4d8ffad64b23",
-    "category": "factual",
-    "domain": "sports"
-  },
-  {
-    "id": "q018",
-    "question": "What was the impact of \"Careful\" on radio, according to Ed Masley of The Arizonan Republic?",
-    "ground_truth": "It impacted radio on June 8, 2010.",
-    "source_url": "https://en.wikipedia.org/wiki/Careful_(Paramore_song)",
-    "source_id": "65dda75b-7482-453a-8da6-06ec0b840dc5",
+    "question": "Who is The Dangerous Dub?",
+    "ground_truth": "The Dangerous Dub is a 1926 American silent Western film.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Dangerous_Dub",
+    "source_id": "e862d1c6-d517-44b4-80df-9ce1d4980ee4",
     "category": "factual",
     "domain": "arts"
   },
   {
+    "id": "q014",
+    "question": "When was Baccharis articulata established/born?",
+    "ground_truth": "Baccharis articulata is a species of shrub in the family Asteraceae.",
+    "source_url": "https://en.wikipedia.org/wiki/Baccharis_articulata",
+    "source_id": "eaebc7e6-3c81-4ca5-840d-e1914fd6bc2d",
+    "category": "factual",
+    "domain": "arts"
+  },
+  {
+    "id": "q015",
+    "question": "What does Renaissance refer to?",
+    "ground_truth": "The Renaissance (UK: /rɪˈneɪsəns/ rin-AY-sənss, US: /ˈrɛnəsɑːns/ ⓘ REN-ə-sahnss)[a] is a European period of history and cultural movement, very roughly defined as covering the 14th through 17th centuries, though sometimes more narrowly defined for instance as only covering the 15th through 16th centuries.",
+    "source_url": "https://en.wikipedia.org/wiki/Renaissance",
+    "source_id": "5cbaeec7-ced7-4815-8db9-a5a7c93b3b32",
+    "category": "factual",
+    "domain": "events"
+  },
+  {
+    "id": "q016",
+    "question": "What does MTV Europe Music Award for Best Spanish Act refer to?",
+    "ground_truth": "The following is a list of the MTV Europe Music Award winners and nominees for Best Spanish Act.",
+    "source_url": "https://en.wikipedia.org/wiki/MTV_Europe_Music_Award_for_Best_Spanish_Act",
+    "source_id": "94d86352-409b-4f85-b6e0-8654e871cc32",
+    "category": "factual",
+    "domain": "events"
+  },
+  {
+    "id": "q017",
+    "question": "What is Jeff Bezos known for?",
+    "ground_truth": "Jeffrey Preston Bezos (/ˈbeɪzoʊs/ BAY-zohss; né Jorgensen; born January 12, 1964) is an American businessman best known as the founder, executive chairman, and former president and CEO of Amazon, the world's largest e-commerce and cloud computing company.",
+    "source_url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+    "source_id": "14a938c0-ba26-40d8-a793-5046f0980feb",
+    "category": "factual",
+    "domain": "people"
+  },
+  {
+    "id": "q018",
+    "question": "What is Ancient Greece known for?",
+    "ground_truth": "Ancient Greece (Ancient Greek: Ἑλλάς, romanized: Hellás) was a northeastern Mediterranean civilization, existing from the Greek Dark Ages of the 12th–9th centuries BC to the end of classical antiquity (c.",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Greece",
+    "source_id": "afa525e3-fba5-4b51-9e25-c53ed602cfe9",
+    "category": "factual",
+    "domain": "events"
+  },
+  {
     "id": "q019",
-    "question": "What was the purpose of the Act of 1813 and how did it encourage vacciination against smallpox?",
-    "ground_truth": "The Act of 1813 was an Act of the Twelfth Congress of the United States to encourage vacciination against smallpox. It was passed in February 1813 and repealed in May 1822.",
-    "source_url": "https://en.wikipedia.org/wiki/Vaccine_Act_of_1813",
-    "source_id": "35ace14d-2bd9-4f93-bca5-8417635ac342",
+    "question": "What does Prakash Man Singh refer to?",
+    "ground_truth": "Prakash Man Singh (Nepali: प्रकाश मान सिंह) is a Nepalese politician and a leader of the Nepali Congress and former Deputy Prime Minister of Nepal.",
+    "source_url": "https://en.wikipedia.org/wiki/Prakash_Man_Singh",
+    "source_id": "362b22c3-c135-482f-9f9b-a568a5ffff85",
+    "category": "factual",
+    "domain": "people"
+  },
+  {
+    "id": "q020",
+    "question": "What is Oleksandr Maksymov known for?",
+    "ground_truth": "Oleksandr Maksymov (Ukrainian: Олександр Олександрович Максимов; born 13 February 1985) is a Ukrainian former footballer.",
+    "source_url": "https://en.wikipedia.org/wiki/Oleksandr_Maksymov",
+    "source_id": "9083692b-47fc-4de2-bc1d-7d8e9e28f638",
+    "category": "factual",
+    "domain": "people"
+  },
+  {
+    "id": "q021",
+    "question": "What does Harishchandra (1932 film) refer to?",
+    "ground_truth": "Harishchandra is a 1932 Tamil mythological film directed by Raja Chandrasekhar and Sarvottam Badami for Sagar Movietone.",
+    "source_url": "https://en.wikipedia.org/wiki/Harishchandra_(1932_film)",
+    "source_id": "012a026f-4c35-4467-83dd-a20369710c5c",
+    "category": "factual",
+    "domain": "arts"
+  },
+  {
+    "id": "q022",
+    "question": "What is 2018 Rhode Island Senate election known for?",
+    "ground_truth": "Dominick J.",
+    "source_url": "https://en.wikipedia.org/wiki/2018_Rhode_Island_Senate_election",
+    "source_id": "554956a2-29c3-4907-bee5-af5157dec4f7",
     "category": "factual",
     "domain": "places"
   },
   {
-    "id": "q020",
-    "question": "What does Big Bang refer to?",
-    "ground_truth": "The Big Bang is a physical theory that describes how the universe expanded from an initial state of high density and temperature.",
-    "source_url": "https://en.wikipedia.org/wiki/Big_Bang",
-    "source_id": "e3b4b578-8549-4fda-ad34-4ee79ba5d2f8",
-    "category": "factual",
-    "domain": "science"
-  },
-  {
-    "id": "q021",
-    "question": "What is LaTour known for?",
-    "ground_truth": "William LaTour, better known by his stage names LaTour and Bud LaTour, is an American musician, disc jockey and voice-over artist.",
-    "source_url": "https://en.wikipedia.org/wiki/LaTour",
-    "source_id": "4d19c023-cc62-460a-b26b-fbc399dab5ae",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q022",
-    "question": "When was Sam Hocevar established/born?",
-    "ground_truth": "Samuel Hocevar (born 5 August 1978) is a French software and video game developer.",
-    "source_url": "https://en.wikipedia.org/wiki/Sam_Hocevar",
-    "source_id": "a25d75ad-01ec-4aed-89f9-0496a3cbf434",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
     "id": "q023",
-    "question": "What is List of hesperiid genera:B known for?",
+    "question": "What does Natterer See refer to?",
+    "ground_truth": "The Natterer See (or Lake Natters) is located 2.",
+    "source_url": "https://en.wikipedia.org/wiki/Natterer_See",
+    "source_id": "20fb8793-1ffa-4967-b75b-13d455845f11",
+    "category": "factual",
+    "domain": "places"
+  },
+  {
+    "id": "q024",
+    "question": "Where is List of hesperiid genera:B located?",
     "ground_truth": "The large Lepidoptera family Hesperiidae (skipper butterflies) contains the following genera: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z.",
     "source_url": "https://en.wikipedia.org/wiki/List_of_hesperiid_genera:B",
     "source_id": "2f9bf5b3-7a26-4026-b240-00c8b11042df",
@@ -207,696 +216,687 @@
     "domain": "other"
   },
   {
-    "id": "q024",
-    "question": "Where is Albert Einstein located?",
-    "ground_truth": "Albert Einstein[a] (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the theory of relativity.",
-    "source_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
-    "source_id": "a79f6efb-ca0d-46a4-9a87-749c3e9084be",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
     "id": "q025",
-    "question": "Who is Christos Albanis (footballer, born 1994)?",
-    "ground_truth": "Christos Albanis (Greek: Χρήστος Αλμπάνης; born 5 November 1994) is a Greek professional footballer who plays as a winger for Spanish club Gimnàstic de Tarragona, on loan from FC Andorra.",
-    "source_url": "https://en.wikipedia.org/wiki/Christos_Albanis_(footballer,_born_1994)",
-    "source_id": "910530d3-253d-4c1b-803e-8f21183f2771",
+    "question": "Who is Human brain?",
+    "ground_truth": "The human brain is the central organ of the nervous system, and with the spinal cord, comprises the central nervous system.",
+    "source_url": "https://en.wikipedia.org/wiki/Human_brain",
+    "source_id": "3d197448-82fa-42f9-b498-05e2f1f824a5",
     "category": "factual",
-    "domain": "people"
+    "domain": "science"
   },
   {
     "id": "q026",
-    "question": "Who adopted Steven Paul Jobs, and where was he born?",
-    "ground_truth": "Steven Paul Jobs was born in San Francisco in 1955.",
-    "source_url": "https://en.wikipedia.org/wiki/Steve_Jobs",
-    "source_id": "ed16aa9e-187e-4201-80d1-a3b634c8072b",
+    "question": "What does Martin Luther King Jr. refer to?",
+    "ground_truth": "Martin Luther King Jr.",
+    "source_url": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "source_id": "6560cabd-56e4-4e85-b52b-49ab8be52100",
     "category": "factual",
     "domain": "people"
   },
   {
     "id": "q027",
-    "question": "What is Centaurea scabiosa known for?",
-    "ground_truth": "Centaurea scabiosa, or greater knapweed, is a perennial plant of the genus Centaurea.",
-    "source_url": "https://en.wikipedia.org/wiki/Centaurea_scabiosa",
-    "source_id": "36498f53-6dc9-4367-bf0a-ee7bdd6b106d",
+    "question": "When was United States established/born?",
+    "ground_truth": "The United States of America (USA), also known as the United States (U.",
+    "source_url": "https://en.wikipedia.org/wiki/United_States",
+    "source_id": "66f4a267-35e4-4346-a045-63deb13f0d1c",
     "category": "factual",
-    "domain": "other"
+    "domain": "places"
   },
   {
     "id": "q028",
-    "question": "What is Lagrange's theorem (number theory) known for?",
-    "ground_truth": "In number theory, Lagrange's theorem is a statement named after Joseph-Louis Lagrange about how frequently a polynomial over the integers may evaluate to a multiple of a fixed prime p.",
-    "source_url": "https://en.wikipedia.org/wiki/Lagrange%27s_theorem_(number_theory)",
-    "source_id": "ae23e412-e63c-4015-9dfd-5b8a43139895",
+    "question": "Who is József Ursz?",
+    "ground_truth": "József Ursz (born 27 July 1982) is a Hungarian footballer who plays for Békéscsabai Előre FC as midfielder.",
+    "source_url": "https://en.wikipedia.org/wiki/J%C3%B3zsef_Ursz",
+    "source_id": "9ceba17d-ef0b-4d96-b4b0-879899ac7b0c",
     "category": "factual",
-    "domain": "other"
+    "domain": "people"
   },
   {
     "id": "q029",
-    "question": "What is the historical background of Westron Wynde?",
-    "ground_truth": "The tuneless tune first appeared in a partbook catalogued by the British Library as Royal Appendix MS 58, dating around 1530. The lyrics are believed to be Middle English and date back to at least 500 years earlier, with fragmentary medieval poetry also found.",
-    "source_url": "https://en.wikipedia.org/wiki/Westron_Wynde",
-    "source_id": "a4075e56-31ae-4745-973d-167383dc586e",
+    "question": "When was 1954 in music established/born?",
+    "ground_truth": "This is a list of notable events in music that took place in the year 1954.",
+    "source_url": "https://en.wikipedia.org/wiki/1954_in_music",
+    "source_id": "fbcb5910-31c4-4cc8-8eda-78bc4d359bff",
     "category": "factual",
     "domain": "arts"
   },
   {
     "id": "q030",
-    "question": "What does India refer to?",
-    "ground_truth": "India, officially the Republic of India,[j] is a country in South Asia.",
-    "source_url": "https://en.wikipedia.org/wiki/India",
-    "source_id": "cd8ba57d-0115-4a34-8b1b-cdd7b0a81b94",
+    "question": "Where is Vaccination located?",
+    "ground_truth": "Vaccination is the administration of a vaccine to help the immune system develop immunity from a disease.",
+    "source_url": "https://en.wikipedia.org/wiki/Vaccination",
+    "source_id": "18eb99fb-85ec-4069-91f5-6d9bba6ede80",
     "category": "factual",
-    "domain": "places"
+    "domain": "science"
   },
   {
     "id": "q031",
-    "question": "What was the joint presentation between Charles Robert Darwin and Alfred Russel Wallace, and what did they propose as a scientific theory?",
-    "ground_truth": "The joint presentation with Alfred Russel Wallace proposed that the branching pattern of evolution resulted from a process called \"natural selection\".",
-    "source_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
-    "source_id": "14c0806f-f57f-4a1f-b6ea-c893df6f84e5",
+    "question": "Who is Miloš Filipović?",
+    "ground_truth": "Miloš Filipović (Serbian Cyrillic: Милош Филиповић; born 9 May 1990) is a Serbian professional footballer who plays as a midfielder for Kolubara.",
+    "source_url": "https://en.wikipedia.org/wiki/Milo%C5%A1_Filipovi%C4%87",
+    "source_id": "be6c326f-0049-435a-9974-2b9b143c67f5",
     "category": "factual",
     "domain": "people"
   },
   {
     "id": "q032",
-    "question": "What was the political movement that began in the Thirteen Colonies of Great Britain and the United States, culminating in complete separation of government and society, as a result of which formed independent states?",
-    "ground_truth": "The American Revolution.",
-    "source_url": "https://en.wikipedia.org/wiki/American_Revolution",
-    "source_id": "3acc62e1-6943-471b-ba59-5ad096b4259b",
+    "question": "What is Tour 20 años known for?",
+    "ground_truth": "Tour 20 años (English: 20 Years Tour) is a concert tour by bachata superstar Juan Luis Guerra and 4:40 to support his 9th studio album Para Ti and to celebrate the 20th anniversary of his debut.",
+    "source_url": "https://en.wikipedia.org/wiki/Tour_20_a%C3%B1os",
+    "source_id": "84a2edb4-ef2e-4eb2-83ee-cde64b987a92",
     "category": "factual",
-    "domain": "events"
+    "domain": "other"
   },
   {
     "id": "q033",
-    "question": "When was Kristoffer Nilsen Svartbækken Grindalen established/born?",
-    "ground_truth": "Kristoffer Nilsen Svartbækken Grindalen (9 September 1804 – 25 February 1876) was a Norwegian criminal, killer and thief.",
-    "source_url": "https://en.wikipedia.org/wiki/Kristoffer_Nilsen_Svartb%C3%A6kken_Grindalen",
-    "source_id": "fd88c90b-1b76-45c3-b975-c3f66ae0429d",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q034",
-    "question": "What is Pierre van Hooijdonk known for?",
-    "ground_truth": "Pierre van Hooijdonk (Dutch pronunciation: [piˈjɛr vɑn ˈɦoːidɔŋk];[citation needed] born 29 November 1969) is a Dutch former professional footballer who played as a striker.",
-    "source_url": "https://en.wikipedia.org/wiki/Pierre_van_Hooijdonk",
-    "source_id": "4b5523ac-10ae-48c1-848b-d2a2a2d0b215",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q035",
-    "question": "When was Nex CCN Cycling Team established/born?",
-    "ground_truth": "Nex CCN Cycling Team is a UCI Continental cycling team established in 2012 based in Laos.",
-    "source_url": "https://en.wikipedia.org/wiki/Nex_CCN_Cycling_Team",
-    "source_id": "12115fe8-6dc4-4b4b-ac63-aed48ef8bbb2",
-    "category": "factual",
-    "domain": "sports"
-  },
-  {
-    "id": "q036",
-    "question": "Where is Cell (biology) located?",
-    "ground_truth": "The cell is the basic structural and functional unit of all forms of life or organisms.",
-    "source_url": "https://en.wikipedia.org/wiki/Cell_(biology)",
-    "source_id": "7940b145-e27c-476e-b46f-ac5dc6686b11",
-    "category": "factual",
-    "domain": "science"
-  },
-  {
-    "id": "q037",
-    "question": "Where is Brendan Daly (rugby union) located?",
-    "ground_truth": "Brendan Thomas Daly (born December 20, 1990) is an American rugby union player who played as a lock for the Colorado Raptors in Major League Rugby (MLR).",
-    "source_url": "https://en.wikipedia.org/wiki/Brendan_Daly_(rugby_union)",
-    "source_id": "34259aa4-642e-418b-8787-f089ed7aa3c9",
-    "category": "factual",
-    "domain": "people"
-  },
-  {
-    "id": "q038",
-    "question": "Where is Piên located in Paraína, Brazil?",
-    "ground_truth": "Piên is a municipality in the state of Paraína, Southern Region of Brazil.",
-    "source_url": "https://en.wikipedia.org/wiki/Pi%C3%AAn",
-    "source_id": "055f1b05-6414-477e-bd16-f1c59a68c0ec",
+    "question": "Who is Le Jardin?",
+    "ground_truth": "Le Jardin (French pronunciation: [lə ʒaʁdɛ̃]; Occitan: Lo Jardenc) is a former commune in the Corrèze department in central France.",
+    "source_url": "https://en.wikipedia.org/wiki/Le_Jardin",
+    "source_id": "bb2c912c-4f66-47e4-a23d-80217352cb6f",
     "category": "factual",
     "domain": "places"
   },
   {
-    "id": "q039",
-    "question": "What were some major developments in weaponry during World War I?",
-    "ground_truth": "The war saw significant development of tanks, aircraft, artillery, machine guns, and chemical weapons.",
-    "source_url": "https://en.wikipedia.org/wiki/World_War_I",
-    "source_id": "c9d46a2f-5d2a-4b60-844c-fca1b894e0ac",
+    "id": "q034",
+    "question": "What does Theory of relativity refer to?",
+    "ground_truth": "The theory of relativity comprises two physics theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively.",
+    "source_url": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+    "source_id": "71d8e868-4558-4083-a15a-51482887da2a",
     "category": "factual",
-    "domain": "events"
+    "domain": "science"
+  },
+  {
+    "id": "q035",
+    "question": "Where is Black hole located?",
+    "ground_truth": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping.",
+    "source_url": "https://en.wikipedia.org/wiki/Black_hole",
+    "source_id": "edd0b6b5-1e30-4974-b540-1966938b19f7",
+    "category": "factual",
+    "domain": "science"
+  },
+  {
+    "id": "q036",
+    "question": "Who is Nemozoma?",
+    "ground_truth": "Nemozoma is a genus of beetles belonging to the family Trogossitidae, historically often spelled as Nemosoma.",
+    "source_url": "https://en.wikipedia.org/wiki/Nemozoma",
+    "source_id": "eba63851-3efe-4970-a241-6c80d22cdf51",
+    "category": "factual",
+    "domain": "other"
+  },
+  {
+    "id": "q037",
+    "question": "What is The Scream known for?",
+    "ground_truth": "The Scream is an art composition created by Norwegian artist Edvard Munch in 1893.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Scream",
+    "source_id": "549d9ac3-d7e7-46e2-b8d6-66287bd71841",
+    "category": "factual",
+    "domain": "arts"
+  },
+  {
+    "id": "q038",
+    "question": "Where is Hatsukoi Cider / Deep Mind located?",
+    "ground_truth": "\"Hatsukoi Cider\" (初恋サイダー; lit.",
+    "source_url": "https://en.wikipedia.org/wiki/Hatsukoi_Cider_/_Deep_Mind",
+    "source_id": "5852a314-bcf0-4db9-a448-d7795be06fc1",
+    "category": "factual",
+    "domain": "arts"
+  },
+  {
+    "id": "q039",
+    "question": "When was Petra established/born?",
+    "ground_truth": "Petra (Arabic: ٱلْبَتْراء‎, romanized: Al-Batrāʾ; Ancient Greek: Πέτρα, lit.",
+    "source_url": "https://en.wikipedia.org/wiki/Petra",
+    "source_id": "29d06e99-ef62-4c12-a5a3-1e883b85c8a2",
+    "category": "factual",
+    "domain": "arts"
   },
   {
     "id": "q040",
-    "question": "Who is Union of Kraków and Vilna?",
-    "ground_truth": "The Union of Kraków and Vilna, also known as Union of Vilnius, was one of the agreements of the Polish–Lithuanian union.",
-    "source_url": "https://en.wikipedia.org/wiki/Union_of_Krak%C3%B3w_and_Vilna",
-    "source_id": "0c6a65db-8742-483a-9d71-2af464efc92e",
+    "question": "What does Anambra waxbill refer to?",
+    "ground_truth": "The Anambra waxbill (Estrilda poliopareia) is a species of estrildid finch found in wetter land of southern Nigeria and Benin.",
+    "source_url": "https://en.wikipedia.org/wiki/Anambra_waxbill",
+    "source_id": "f09c775d-5855-41bc-a167-4e500500ed34",
     "category": "factual",
-    "domain": "events"
+    "domain": "places"
   },
   {
     "id": "q041",
-    "question": "What are the main characteristics of Nex CCN Cycling Team?",
-    "ground_truth": "Nex CCN Cycling Team is a UCI Continental cycling team established in 2012 based in Laos.",
-    "source_url": "https://en.wikipedia.org/wiki/Nex_CCN_Cycling_Team",
-    "source_id": "12115fe8-6dc4-4b4b-ac63-aed48ef8bbb2",
+    "question": "How does The Persistence of Memory compare to others in its field?",
+    "ground_truth": "The Persistence of Memory (Catalan: La persistència de la memòria, Spanish: La persistencia de la memoria) is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "source_id": "15b29c3a-7ef6-4bda-8a20-ed3a0208004d",
     "category": "comparative",
-    "domain": "sports"
+    "domain": "arts"
   },
   {
     "id": "q042",
-    "question": "How does Michelangelo compare to others in its field?",
-    "ground_truth": "Michelangelo di Lodovico Buonarroti Simoni[a] (6 March 1475 – 18 February 1564), known mononymously as Michelangelo,[b] was an Italian sculptor, painter, architect, and poet of the High Renaissance.",
-    "source_url": "https://en.wikipedia.org/wiki/Michelangelo",
-    "source_id": "85a58356-60cd-4299-9b95-9e098916d09d",
+    "question": "What are the main characteristics of Michael Neary (bishop)?",
+    "ground_truth": "Michael Neary KC*HS (born 15 April 1946) is an Irish prelate in the Catholic Church who served as Archbishop of Tuam between 1995 and 2021.",
+    "source_url": "https://en.wikipedia.org/wiki/Michael_Neary_(bishop)",
+    "source_id": "a9d649e0-4b6d-4d7b-8071-841d33906543",
     "category": "comparative",
     "domain": "people"
   },
   {
     "id": "q043",
-    "question": "How does Synopsis Universae Philologiae compare to others in its field?",
-    "ground_truth": "Synopsis Universae Philologiae is an early work on comparative linguistics by Gottfried Hensel (Godofredus Henselius; 1687–1767), a rector in Hirschberg (Jelenia Góra), Lower Silesia.",
-    "source_url": "https://en.wikipedia.org/wiki/Synopsis_Universae_Philologiae",
-    "source_id": "20ea44fa-2277-4a7a-9bd3-9c20c1bae9cb",
+    "question": "What are the main characteristics of Oleksandr Maksymov?",
+    "ground_truth": "Oleksandr Maksymov (Ukrainian: Олександр Олександрович Максимов; born 13 February 1985) is a Ukrainian former footballer.",
+    "source_url": "https://en.wikipedia.org/wiki/Oleksandr_Maksymov",
+    "source_id": "9083692b-47fc-4de2-bc1d-7d8e9e28f638",
+    "category": "comparative",
+    "domain": "people"
+  },
+  {
+    "id": "q044",
+    "question": "How does Cadden compare to others in its field?",
+    "ground_truth": "Cadden is a surname.",
+    "source_url": "https://en.wikipedia.org/wiki/Cadden",
+    "source_id": "14c6836e-78e0-4201-9c9e-1675a1d97be9",
+    "category": "comparative",
+    "domain": "other"
+  },
+  {
+    "id": "q045",
+    "question": "What are the main characteristics of Queen Victoria?",
+    "ground_truth": "Victoria (Alexandrina Victoria; 24 May 1819 – 22 January 1901) was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901.",
+    "source_url": "https://en.wikipedia.org/wiki/Queen_Victoria",
+    "source_id": "0a21fa85-a7f7-4531-b96e-59de4bb0eddb",
+    "category": "comparative",
+    "domain": "people"
+  },
+  {
+    "id": "q046",
+    "question": "What are the main characteristics of Sheikh Barakeh?",
+    "ground_truth": "Sheikh Barakeh (Arabic: الشيخ بركة) is a Syrian village located in Sinjar Nahiyah in Maarrat al-Nu'man District, Idlib.",
+    "source_url": "https://en.wikipedia.org/wiki/Sheikh_Barakeh",
+    "source_id": "3fb2ef95-d1e2-4e9b-a71f-a660c8d80554",
     "category": "comparative",
     "domain": "places"
   },
   {
-    "id": "q044",
-    "question": "What are some of the notable achievements of Leonardo di ser Piero da Vinci as a painter?",
-    "ground_truth": "While his fame initially stemmed from his contributions as a painter, he became well known for his other notable talents and interests as well.",
-    "source_url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
-    "source_id": "ae8c24d8-4d5e-431d-9698-5ebf74a36a24",
-    "category": "comparative",
-    "domain": "people"
-  },
-  {
-    "id": "q045",
-    "question": "What are the main characteristics of Machine learning?",
-    "ground_truth": "Machine learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions.",
-    "source_url": "https://en.wikipedia.org/wiki/Machine_learning",
-    "source_id": "86b1a3c6-fb67-4282-8bf3-072017be638e",
-    "category": "comparative",
-    "domain": "technology"
-  },
-  {
-    "id": "q046",
-    "question": "How does Muhammad Ali compare to others in its field?",
-    "ground_truth": "Muhammad Ali (/ɑːˈliː/ ah-LEE; born Cassius Marcellus Clay Jr.",
-    "source_url": "https://en.wikipedia.org/wiki/Muhammad_Ali",
-    "source_id": "54d9fcfd-e949-410e-9ec2-97f0306480e4",
-    "category": "comparative",
-    "domain": "people"
-  },
-  {
     "id": "q047",
-    "question": "How does Steve Jobs compare to others in its field?",
-    "ground_truth": "Steven Paul Jobs (February 24, 1955 – October 5, 2011) was an American businessman, inventor, and investor best known for co-founding the technology company Apple Inc.",
-    "source_url": "https://en.wikipedia.org/wiki/Steve_Jobs",
-    "source_id": "ed16aa9e-187e-4201-80d1-a3b634c8072b",
-    "category": "comparative",
-    "domain": "people"
-  },
-  {
-    "id": "q048",
-    "question": "Which Malayalam writers have won the Kerala Sahitya Akademi Award for Novel in the last two decades?",
-    "ground_truth": "All five authors, who are considered as a trio of Malayalam literature, have won this award.",
-    "source_url": "https://en.wikipedia.org/wiki/Kerala_Sahitya_Akademi_Award_for_Novel",
-    "source_id": "17bbc7df-ffe8-4225-af51-ddbf5a32f5c2",
+    "question": "What distinguishes Renaissance from similar entities?",
+    "ground_truth": "The Renaissance (UK: /rɪˈneɪsəns/ rin-AY-sənss, US: /ˈrɛnəsɑːns/ ⓘ REN-ə-sahnss)[a] is a European period of history and cultural movement, very roughly defined as covering the 14th through 17th centuries, though sometimes more narrowly defined for instance as only covering the 15th through 16th centuries.",
+    "source_url": "https://en.wikipedia.org/wiki/Renaissance",
+    "source_id": "5cbaeec7-ced7-4815-8db9-a5a7c93b3b32",
     "category": "comparative",
     "domain": "events"
   },
   {
+    "id": "q048",
+    "question": "How does Anambra waxbill compare to others in its field?",
+    "ground_truth": "The Anambra waxbill (Estrilda poliopareia) is a species of estrildid finch found in wetter land of southern Nigeria and Benin.",
+    "source_url": "https://en.wikipedia.org/wiki/Anambra_waxbill",
+    "source_id": "f09c775d-5855-41bc-a167-4e500500ed34",
+    "category": "comparative",
+    "domain": "places"
+  },
+  {
     "id": "q049",
-    "question": "What were the differences between Abdullah Jachya's office holdings during his governorship in Bengkulu compared to other government offices?",
-    "ground_truth": "While serving as a provincial secretary, he held several other positions such as vice governor and acting governor.",
-    "source_url": "https://en.wikipedia.org/wiki/Razie_Jachya",
-    "source_id": "61c0d45b-251d-4c24-8e4f-afb296b9aebc",
+    "question": "What distinguishes Chip Brian from similar entities?",
+    "ground_truth": "Earl W.",
+    "source_url": "https://en.wikipedia.org/wiki/Chip_Brian",
+    "source_id": "184837be-323b-4fca-b577-9d115df3edc4",
     "category": "comparative",
     "domain": "people"
   },
   {
     "id": "q050",
-    "question": "What distinguishes Doorndraai Dam Nature Reserve from similar entities?",
-    "ground_truth": "Doorndraai Dam Nature Reserve, is situated south west of Potgietersrus, in the Limpopo, Province of South Africa, it has an area of about 7,000 ha.",
-    "source_url": "https://en.wikipedia.org/wiki/Doorndraai_Dam_Nature_Reserve",
-    "source_id": "7a515e0b-3638-43cc-af57-e1d3711eb110",
+    "question": "What distinguishes Bill Smith (Motorola engineer) from similar entities?",
+    "ground_truth": "William B.",
+    "source_url": "https://en.wikipedia.org/wiki/Bill_Smith_(Motorola_engineer)",
+    "source_id": "ee5ef167-f929-4d04-969e-85d93a0231fa",
     "category": "comparative",
-    "domain": "other"
+    "domain": "people"
   },
   {
     "id": "q051",
-    "question": "How has Jeffrey Preston Bezos's wealth impacted his philanthropic endeavors?",
-    "ground_truth": "According to Forbes, as of December 2025, Bezos's estimated net worth is US$239.4 billion, making him the fourth richest person in the world. He was the wealthiest person from 2017 to 2021, according to Forbes and the Bloomberg Billionaires Ind.",
-    "source_url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
-    "source_id": "14a938c0-ba26-40d8-a793-5046f0980feb",
+    "question": "How does Tolib Ayombekov compare to others in its field?",
+    "ground_truth": "Tolibbek Ayyombekov (Tajiki: Толиббек Айёмбеков, Perso-Arabic script: طالب‌بیک ایام‌بیک‌اف; born 6 July 1966 in Khorog), commonly known as Tolib Ayombekov (Tajiki: Толиб Аёмбеков, Perso-Arabic script: طالب ایام‌بیک‌اف), is a Pamiri jailed ex-opposition fighter from Tajikistan, who was involved in the Gorno-Badakhshan clashes in 2012 against the government forces of ruling Tajik president Emomali Rahmon.",
+    "source_url": "https://en.wikipedia.org/wiki/Tolib_Ayombekov",
+    "source_id": "d8aa4a71-117b-4f68-8078-29dd3693f664",
     "category": "comparative",
     "domain": "people"
   },
   {
     "id": "q052",
-    "question": "How is Suk Hi Kim different from other North Korean editors and senior professors of international finance?",
-    "ground_truth": "He is the founding editor of the Multi-national Business Review, which is a prestigious publication in the field.",
-    "source_url": "https://en.wikipedia.org/wiki/Suk_Hi_Kim",
-    "source_id": "f7085ce3-1ef6-4351-916e-70c7ba553f35",
+    "question": "What distinguishes Andrew Seabrook from similar entities?",
+    "ground_truth": "Andrew Seabrook (born 22 June 1978 in Camberley) is a pair skater who has represented Great Britain.",
+    "source_url": "https://en.wikipedia.org/wiki/Andrew_Seabrook",
+    "source_id": "248a8d81-a449-4025-83ef-0e9d4863ad19",
     "category": "comparative",
     "domain": "people"
   },
   {
     "id": "q053",
-    "question": "How does Niagara Falls compare to others in its field?",
-    "ground_truth": "Niagara Falls[a] is a group of three waterfalls at the southern end of Niagara Gorge, spanning the border between the Canadian province of Ontario and the U.",
-    "source_url": "https://en.wikipedia.org/wiki/Niagara_Falls",
-    "source_id": "c023b49e-0b49-4b38-afaa-708742507b81",
+    "question": "What distinguishes LeBron James from similar entities?",
+    "ground_truth": "LeBron Raymone James (/ləˈbrɒn/ lə-BRON; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).",
+    "source_url": "https://en.wikipedia.org/wiki/LeBron_James",
+    "source_id": "3f220311-a8d4-4606-a114-414d08dcaa3f",
+    "category": "comparative",
+    "domain": "people"
+  },
+  {
+    "id": "q054",
+    "question": "What are the main characteristics of Darulaman?",
+    "ground_truth": "Darulaman (Pashto[a]; Dari[b]: دارالامان) is a locality on the south-western fringes of Kabul, Afghanistan, forming part of District 6.",
+    "source_url": "https://en.wikipedia.org/wiki/Darulaman",
+    "source_id": "363bf559-d823-41fa-bb2e-6598d0dc5052",
     "category": "comparative",
     "domain": "places"
   },
   {
-    "id": "q054",
-    "question": "What are the main characteristics of Smartphone?",
-    "ground_truth": "A smartphone is a mobile device that combines the functionality of a traditional mobile phone with advanced computing capabilities.",
-    "source_url": "https://en.wikipedia.org/wiki/Smartphone",
-    "source_id": "5c259498-cf0c-4b81-9c7a-677dec41e5c6",
-    "category": "comparative",
-    "domain": "technology"
-  },
-  {
     "id": "q055",
-    "question": "What are the main characteristics of Louvre?",
-    "ground_truth": "The Louvre,[a] or the Louvre Museum (French: Musée du Louvre [myze dy luvʁ] ⓘ), is a national art museum in Paris, France.",
-    "source_url": "https://en.wikipedia.org/wiki/Louvre",
-    "source_id": "f95d50ba-465c-47af-bb88-0ac7fe3b04f9",
+    "question": "What are the main characteristics of Machu Picchu?",
+    "ground_truth": "Machu Picchu[b] is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft).",
+    "source_url": "https://en.wikipedia.org/wiki/Machu_Picchu",
+    "source_id": "059f7fe3-3092-40fd-b8a4-a8ed849d233d",
     "category": "comparative",
     "domain": "arts"
   },
   {
     "id": "q056",
-    "question": "What distinguishes Berlin from similar entities?",
-    "ground_truth": "Berlin[a] is the capital of Germany, as well as its largest city by both area and population.",
-    "source_url": "https://en.wikipedia.org/wiki/Berlin",
-    "source_id": "4c21ac4f-098c-4095-88e5-8631e3d6ab82",
+    "question": "How does Dacidava compare to others in its field?",
+    "ground_truth": "Dacidava was a Dacian fortified town, located in the North-Western part of present Transylvania, Romania, about 35 km North of the border established on Meseș Mountains, which was separating the dacian territory controlled by the Roman Empire and the territories inhabited by the free Dacians.",
+    "source_url": "https://en.wikipedia.org/wiki/Dacidava",
+    "source_id": "33897604-759a-49ea-907b-35997e68b2a7",
     "category": "comparative",
     "domain": "places"
   },
   {
     "id": "q057",
-    "question": "What distinguishes Natterer See from similar entities?",
-    "ground_truth": "The Natterer See (or Lake Natters) is located 2.",
-    "source_url": "https://en.wikipedia.org/wiki/Natterer_See",
-    "source_id": "20fb8793-1ffa-4967-b75b-13d455845f11",
-    "category": "comparative",
-    "domain": "places"
-  },
-  {
-    "id": "q058",
-    "question": "How does US Catanzaro 1929 compare to others in its field?",
-    "ground_truth": "Unione Sportiva Catanzaro 1929, or simply Catanzaro, is a professional football club based in Catanzaro, Calabria, Italy, that competes in Serie B, the second tier of the Italian football, following a 17-year absence.",
-    "source_url": "https://en.wikipedia.org/wiki/US_Catanzaro_1929",
-    "source_id": "2e478434-6da8-4164-93d9-ab120b3a850d",
+    "question": "How does 1974 Detroit Lions season compare to others in its field?",
+    "ground_truth": "The 1974 Detroit Lions season was the 45th season in franchise history.",
+    "source_url": "https://en.wikipedia.org/wiki/1974_Detroit_Lions_season",
+    "source_id": "35c3957c-fe9e-48d8-a43b-59e16bdc59d9",
     "category": "comparative",
     "domain": "sports"
   },
   {
-    "id": "q059",
-    "question": "How does Ottoman Empire compare to others in its field?",
-    "ground_truth": "The Ottoman Empire,[l] also known as the Turkish Empire[n] or Turkey, controlled much of Southeast Europe, West Asia, and North Africa from the 14th century to the early 20th century.",
-    "source_url": "https://en.wikipedia.org/wiki/Ottoman_Empire",
-    "source_id": "c3dfe48a-73f4-4657-8913-690b122aea66",
-    "category": "comparative",
-    "domain": "events"
-  },
-  {
-    "id": "q060",
-    "question": "What distinguishes Streptomyces pratens from similar entities?",
-    "ground_truth": "Streptomyces pratens is a bacterium species from the genus of Streptomyces which has been isolated from soil from a hay meadow.",
-    "source_url": "https://en.wikipedia.org/wiki/Streptomyces_pratens",
-    "source_id": "340979a9-1c13-41f2-aad9-0eaa75915d00",
+    "id": "q058",
+    "question": "What are the main characteristics of Sooty-headed wren?",
+    "ground_truth": "Thryothorus spadix The sooty-headed wren (Pheugopedius spadix) is a species of bird in the family Troglodytidae.",
+    "source_url": "https://en.wikipedia.org/wiki/Sooty-headed_wren",
+    "source_id": "618156c7-ac4d-4ee3-83d8-e37aba14475d",
     "category": "comparative",
     "domain": "other"
   },
   {
+    "id": "q059",
+    "question": "What distinguishes Astronomy from similar entities?",
+    "ground_truth": "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos.",
+    "source_url": "https://en.wikipedia.org/wiki/Astronomy",
+    "source_id": "3d9aa03e-ac10-4a9d-bbf1-24dc63a0c9fb",
+    "category": "comparative",
+    "domain": "science"
+  },
+  {
+    "id": "q060",
+    "question": "How does Quarters! compare to others in its field?",
+    "ground_truth": "Quarters! is the sixth studio album by Australian psychedelic rock band King Gizzard & the Lizard Wizard.",
+    "source_url": "https://en.wikipedia.org/wiki/Quarters!",
+    "source_id": "3a35d4cd-67d0-4218-8a38-49e6977f5067",
+    "category": "comparative",
+    "domain": "people"
+  },
+  {
     "id": "q061",
-    "question": "Why is Natterer See significant?",
-    "ground_truth": "The Natterer See (or Lake Natters) is located 2.",
-    "source_url": "https://en.wikipedia.org/wiki/Natterer_See",
-    "source_id": "20fb8793-1ffa-4967-b75b-13d455845f11",
+    "question": "How has Yang Huimin influenced its domain?",
+    "ground_truth": "Yang Xixian (traditional Chinese: 楊希賢; simplified Chinese: 杨希贤; pinyin: Yáng Xīxián), formerly known as Yang Huimin (traditional Chinese: 楊惠敏; simplified Chinese: 杨惠敏; pinyin: Yáng Huìmǐn; March 6, 1915 – March 9, 1992): 105 was a Girl Guide in the 1937 Battle of Shanghai during World War II who supplied a Republic of China flag and brought supplies to besieged defenders of the Sihang Warehouse.",
+    "source_url": "https://en.wikipedia.org/wiki/Yang_Huimin",
+    "source_id": "86f25d2b-aeb4-40aa-ad99-036692db2195",
     "category": "inferential",
-    "domain": "places"
+    "domain": "people"
   },
   {
     "id": "q062",
-    "question": "What was the significance of William LaTour's parody song, \"Blue\" on its chart peaking at No. 1 Billboard in 1991?",
-    "ground_truth": "The song was a reflection of the emerging trend in electronic dance music, and helped popularize deep house genre.",
-    "source_url": "https://en.wikipedia.org/wiki/LaTour",
-    "source_id": "4d19c023-cc62-460a-b26b-fbc399dab5ae",
+    "question": "Why is Paolo Angeli significant?",
+    "ground_truth": "Paolo Angeli (born 1970 in Olbia, Sardinia, Italy) is a guitarist, composer, ethnomusicologist and instrument builder associated with traditional Sardinian music, flamenco, jazz, post-rock and experimental music.",
+    "source_url": "https://en.wikipedia.org/wiki/Paolo_Angeli",
+    "source_id": "1f4ec6b8-08ce-4fd7-9390-1926fad6f6c6",
     "category": "inferential",
     "domain": "people"
   },
   {
     "id": "q063",
-    "question": "Why is Byzantine Empire significant?",
-    "ground_truth": "The Byzantine Empire, also known as the Eastern Roman Empire, was the continuation of the Roman Empire centred on Constantinople during late antiquity and the Middle Ages.",
-    "source_url": "https://en.wikipedia.org/wiki/Byzantine_Empire",
-    "source_id": "1064cc69-9f52-49a9-bd97-c1ee8e719082",
+    "question": "Why is Olympic Games significant?",
+    "ground_truth": "The modern Olympic Games (Olympics; French: Jeux olympiques)[a] are the world's preeminent international sporting events.",
+    "source_url": "https://en.wikipedia.org/wiki/Olympic_Games",
+    "source_id": "1a3458de-e3ae-49c2-a8bd-ad506461fa16",
+    "category": "inferential",
+    "domain": "sports"
+  },
+  {
+    "id": "q064",
+    "question": "How has National Highway 715 (India) influenced its domain?",
+    "ground_truth": "National Highway 715 (NH 715) is a National Highway in India.",
+    "source_url": "https://en.wikipedia.org/wiki/National_Highway_715_(India)",
+    "source_id": "fd5c79bd-df56-452e-bdaf-4fe4a43c202a",
+    "category": "inferential",
+    "domain": "sports"
+  },
+  {
+    "id": "q065",
+    "question": "How has Nuclear power influenced its domain?",
+    "ground_truth": "Nuclear power is the use of nuclear reactions to produce electricity.",
+    "source_url": "https://en.wikipedia.org/wiki/Nuclear_power",
+    "source_id": "7444c506-3963-4fec-bdaa-997410ba1183",
+    "category": "inferential",
+    "domain": "science"
+  },
+  {
+    "id": "q066",
+    "question": "Why is Novalyne Price Ellis significant?",
+    "ground_truth": "Novalyne Price Ellis (March 9, 1908 – March 30, 1999) was an American high school teacher and writer.",
+    "source_url": "https://en.wikipedia.org/wiki/Novalyne_Price_Ellis",
+    "source_id": "5f666a7e-0a43-4f54-ae58-65cfb84d87db",
+    "category": "inferential",
+    "domain": "people"
+  },
+  {
+    "id": "q067",
+    "question": "What can be inferred about Careful (Paramore song) from its history?",
+    "ground_truth": "\"Careful\" is a song by American rock band Paramore, and is the fourth single from their third studio album, Brand New Eyes.",
+    "source_url": "https://en.wikipedia.org/wiki/Careful_(Paramore_song)",
+    "source_id": "65dda75b-7482-453a-8da6-06ec0b840dc5",
+    "category": "inferential",
+    "domain": "arts"
+  },
+  {
+    "id": "q068",
+    "question": "What can be inferred about Hervey de Stanton from its history?",
+    "ground_truth": "Hervey de Stanton (or Staunton) (1260 – November 1327) was an English judge (serving both as Chief Justice of the King's Bench and as Chief Justice of the Common Pleas) and Chancellor of the Exchequer.",
+    "source_url": "https://en.wikipedia.org/wiki/Hervey_de_Stanton",
+    "source_id": "1d5b05ee-a82c-4420-96d3-a9e59fdbb64d",
+    "category": "inferential",
+    "domain": "people"
+  },
+  {
+    "id": "q069",
+    "question": "What can be inferred about Dike-Orne House from its history?",
+    "ground_truth": "The Dike-Orne House was a historic house in Winchester, Massachusetts.",
+    "source_url": "https://en.wikipedia.org/wiki/Dike-Orne_House",
+    "source_id": "b8d4571b-db78-47ab-89ae-8f1aaa02af7e",
+    "category": "inferential",
+    "domain": "other"
+  },
+  {
+    "id": "q070",
+    "question": "What can be inferred about Cold War from its history?",
+    "ground_truth": "The Cold War was a period of international geopolitical rivalry between the United States (US) and the Soviet Union (USSR) and their respective allies, the capitalist Western Bloc and communist Eastern Bloc, which began in the aftermath of the Second World War[A] and ended with the dissolution of the Soviet Union in 1991.",
+    "source_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "source_id": "17ec3db2-f908-486e-9ad5-09b1d7d2cd4a",
     "category": "inferential",
     "domain": "events"
   },
   {
-    "id": "q064",
-    "question": "How has Ecosystem influenced its domain?",
-    "ground_truth": "An ecosystem (or ecological system) is a system formed by organisms in interaction with their environment.",
-    "source_url": "https://en.wikipedia.org/wiki/Ecosystem",
-    "source_id": "715b238b-c606-417e-93d5-dd2e80004501",
+    "id": "q071",
+    "question": "What can be inferred about Robert B. Sinclair from its history?",
+    "ground_truth": "Robert Bruce Sinclair (May 24, 1905 – January 3, 1970) was an American director who worked in film, theater and television.",
+    "source_url": "https://en.wikipedia.org/wiki/Robert_B._Sinclair",
+    "source_id": "2528344d-839b-40ee-80da-04315df8c81b",
+    "category": "inferential",
+    "domain": "other"
+  },
+  {
+    "id": "q072",
+    "question": "How has Almahmoud influenced its domain?",
+    "ground_truth": "Almahmoud (1947–1971) was an American Thoroughbred racemare that was best known as an influential broodmare who produced Natalma and Cosmah.",
+    "source_url": "https://en.wikipedia.org/wiki/Almahmoud",
+    "source_id": "264cea18-38a5-4f3a-953d-92b1f775f068",
+    "category": "inferential",
+    "domain": "people"
+  },
+  {
+    "id": "q073",
+    "question": "How has Jerry Huntsman influenced its domain?",
+    "ground_truth": "James Owen \"Jerry\" Huntsman (November 29, 1929 – April 5, 2005) was an American football player and coach.",
+    "source_url": "https://en.wikipedia.org/wiki/Jerry_Huntsman",
+    "source_id": "cad88e1a-6a7b-43c5-ab67-e252983b9d2e",
+    "category": "inferential",
+    "domain": "people"
+  },
+  {
+    "id": "q074",
+    "question": "What can be inferred about Biodiversity from its history?",
+    "ground_truth": "Biodiversity is the variability of life on Earth.",
+    "source_url": "https://en.wikipedia.org/wiki/Biodiversity",
+    "source_id": "8270acd4-dade-46ff-b7ef-7cd41dee932d",
     "category": "inferential",
     "domain": "science"
   },
   {
-    "id": "q065",
-    "question": "Why is Guernica (Picasso) significant?",
-    "ground_truth": "Guernica is a large 1937 oil painting by Spanish artist Pablo Picasso.",
-    "source_url": "https://en.wikipedia.org/wiki/Guernica_(Picasso)",
-    "source_id": "e35dc16f-a8a9-46c6-93f9-325ac86acacc",
-    "category": "inferential",
-    "domain": "arts"
-  },
-  {
-    "id": "q066",
-    "question": "How has Oddział, Masovian Voivodeship influenced its domain?",
-    "ground_truth": "Oddział [ˈɔdd͡ʑau̯] is a village in the administrative district of Gmina Żabia Wola, within Grodzisk Mazowiecki County, Masovian Voivodeship, in east-central Poland.",
-    "source_url": "https://en.wikipedia.org/wiki/Oddzia%C5%82,_Masovian_Voivodeship",
-    "source_id": "cfc13548-cb29-405d-91ca-a41734098bb9",
-    "category": "inferential",
-    "domain": "places"
-  },
-  {
-    "id": "q067",
-    "question": "What can be inferred about Uruguay women's national volleyball team from its history?",
-    "ground_truth": "The Uruguay women's national volleyball team is the national team of Uruguay.",
-    "source_url": "https://en.wikipedia.org/wiki/Uruguay_women%27s_national_volleyball_team",
-    "source_id": "bc3b0363-89b5-46ab-80ab-3142ed8c97d5",
+    "id": "q075",
+    "question": "How has UEFA Champions League influenced its domain?",
+    "ground_truth": "The UEFA Champions League (UCL), usually known simply as the Champions League, is an annual club association football competition organised by the Union of European Football Associations (UEFA) that is contested by top-division European clubs.",
+    "source_url": "https://en.wikipedia.org/wiki/UEFA_Champions_League",
+    "source_id": "522d12d8-074d-4d1f-ad18-c06cb2a15126",
     "category": "inferential",
     "domain": "sports"
   },
   {
-    "id": "q068",
-    "question": "How has Robotics influenced its domain?",
-    "ground_truth": "Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots.",
-    "source_url": "https://en.wikipedia.org/wiki/Robotics",
-    "source_id": "17d797dd-65b5-44c6-b5a3-1ea98542fcdd",
+    "id": "q076",
+    "question": "What can be inferred about Palmyra fold belt from its history?",
+    "ground_truth": "The Palmyra fold belt forms fold mountains found mostly in Syria.",
+    "source_url": "https://en.wikipedia.org/wiki/Palmyra_fold_belt",
+    "source_id": "87c5492c-12ea-4f83-a0ef-5cf1aa7a5b94",
+    "category": "inferential",
+    "domain": "science"
+  },
+  {
+    "id": "q077",
+    "question": "Why is COVID-19 pandemic significant?",
+    "ground_truth": "The global COVID-19 pandemic (also known as the coronavirus pandemic), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), began with an outbreak in Wuhan, China, in December 2019.",
+    "source_url": "https://en.wikipedia.org/wiki/COVID-19_pandemic",
+    "source_id": "bab5f96c-4c24-41f0-beb0-29d4c177ea0b",
+    "category": "inferential",
+    "domain": "events"
+  },
+  {
+    "id": "q078",
+    "question": "How has 5G influenced its domain?",
+    "ground_truth": "5G is the fifth generation of cellular network technology and the successor to 4G.",
+    "source_url": "https://en.wikipedia.org/wiki/5G",
+    "source_id": "13b13077-0a64-4407-b085-054aa52db12a",
     "category": "inferential",
     "domain": "technology"
   },
   {
-    "id": "q069",
-    "question": "Why is I Always Wanna Die (Sometimes) significant?",
-    "ground_truth": "\"I Always Wanna Die (Sometimes)\" is a song by English band the 1975 from their third studio album, A Brief Inquiry into Online Relationships (2018).",
-    "source_url": "https://en.wikipedia.org/wiki/I_Always_Wanna_Die_(Sometimes)",
-    "source_id": "32312579-9337-4215-afa2-8419565aa0f8",
-    "category": "inferential",
-    "domain": "arts"
-  },
-  {
-    "id": "q070",
-    "question": "What can be inferred about Brendan Daly (rugby union) from its history?",
-    "ground_truth": "Brendan Thomas Daly (born December 20, 1990) is an American rugby union player who played as a lock for the Colorado Raptors in Major League Rugby (MLR).",
-    "source_url": "https://en.wikipedia.org/wiki/Brendan_Daly_(rugby_union)",
-    "source_id": "34259aa4-642e-418b-8787-f089ed7aa3c9",
-    "category": "inferential",
-    "domain": "people"
-  },
-  {
-    "id": "q071",
-    "question": "Why did Mohandas Gandhi use nonviolent resistance to lead India's independence movement?",
-    "ground_truth": "Gandhi used nonviolent resistance because it was the only way he could achieve his goal of freeing India from British rule without resorting to violence.",
-    "source_url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
-    "source_id": "7567f72d-0872-4660-b71f-5412fb21657e",
-    "category": "inferential",
-    "domain": "people"
-  },
-  {
-    "id": "q072",
-    "question": "Why is Para Plazmodium a subgenus of Plazmodium, and what is its relationship to lizards?",
-    "ground_truth": "The subgenus Para Plazmodium was created by Telford in 1988 to accommodate the specific parasitic infection on lizards. The fact that it infects these particular animals is not directly related to their status as a subgenus, but rather the specificity of the infection.",
-    "source_url": "https://en.wikipedia.org/wiki/Paraplasmodium",
-    "source_id": "b8b42b46-504c-4ea6-8660-bce4b5e6d2df",
-    "category": "inferential",
-    "domain": "other"
-  },
-  {
-    "id": "q073",
-    "question": "Why did Dacidava fall before 1592?",
-    "ground_truth": "The reason for its fall was due to the Roman Empire's withdrawal from Transylvania, which led to the free Dacian population's migration to other territories.",
-    "source_url": "https://en.wikipedia.org/wiki/Dacidava",
-    "source_id": "33897604-759a-49ea-907b-35997e68b2a7",
-    "category": "inferential",
-    "domain": "places"
-  },
-  {
-    "id": "q074",
-    "question": "What can be inferred about International School of Milan from its history?",
-    "ground_truth": "The International School of Milan (ISM) is an international school and IB World School in the northern part of Milan, Italy.",
-    "source_url": "https://en.wikipedia.org/wiki/International_School_of_Milan",
-    "source_id": "025a04ca-20fd-4c8d-8ff8-ec69039d1f6d",
-    "category": "inferential",
-    "domain": "other"
-  },
-  {
-    "id": "q075",
-    "question": "Why is Forum Hadriani significant?",
-    "ground_truth": "Forum Hadriani, in the modern town of Voorburg, was the northernmost Roman city on the European continent and the second oldest city of the Netherlands.",
-    "source_url": "https://en.wikipedia.org/wiki/Forum_Hadriani",
-    "source_id": "a52948b4-1ab5-4cfd-abdb-80c88d12b289",
-    "category": "inferential",
-    "domain": "places"
-  },
-  {
-    "id": "q076",
-    "question": "What can be inferred about Miss Latina Australia from its history?",
-    "ground_truth": "Miss Latina Australia is an Australian national beauty pageant was held in 2015 and 2016 run by E & E Events Management and Estela Tapia is National Director of the contest.",
-    "source_url": "https://en.wikipedia.org/wiki/Miss_Latina_Australia",
-    "source_id": "5b71a477-c506-4725-a404-9591d3aa8db5",
-    "category": "inferential",
-    "domain": "other"
-  },
-  {
-    "id": "q077",
-    "question": "What can be inferred about Machu Picchu from its history?",
-    "ground_truth": "Machu Picchu[b] is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft).",
-    "source_url": "https://en.wikipedia.org/wiki/Machu_Picchu",
-    "source_id": "059f7fe3-3092-40fd-b8a4-a8ed849d233d",
-    "category": "inferential",
-    "domain": "arts"
-  },
-  {
-    "id": "q078",
-    "question": "What can be inferred about Suk Hi Kim from its history?",
-    "ground_truth": "Suk Hi Kim is the editor of North Korean Review and a senior professor of international finance at the University of Detroit Mercy in the United States.",
-    "source_url": "https://en.wikipedia.org/wiki/Suk_Hi_Kim",
-    "source_id": "f7085ce3-1ef6-4351-916e-70c7ba553f35",
-    "category": "inferential",
-    "domain": "people"
-  },
-  {
     "id": "q079",
-    "question": "What is the significance of the name \"Hydra\" in Chinese constellation mapping?",
-    "ground_truth": "The name \"Hydra\" refers to the constellation that lies across two quadrants, symbolized by the Azure Dragon and Vermilion Bird. This naming pattern suggests that the two constellations are closely related and that they were mapped together for historical or cultural reasons.",
-    "source_url": "https://en.wikipedia.org/wiki/Hydra_in_Chinese_astronomy",
-    "source_id": "dd4e6855-f1ec-4208-b4b4-5ffe08c0de6f",
+    "question": "Why is Preußens Gloria significant?",
+    "ground_truth": "Preußens Gloria, Prussian Army March Collection II, p.",
+    "source_url": "https://en.wikipedia.org/wiki/Preu%C3%9Fens_Gloria",
+    "source_id": "3f19fd8e-dfeb-4902-947e-311b0fd55201",
     "category": "inferential",
-    "domain": "science"
+    "domain": "arts"
   },
   {
     "id": "q080",
-    "question": "What is Umar's behavioral change related to, according to the given text?",
-    "ground_truth": "Faree's mother Faree (Nuzuhath Shuaib) believes that Umar's behavioral change is related to her desire to leave a dysfunctional marriage and confront her past life.",
-    "source_url": "https://en.wikipedia.org/wiki/Faree",
-    "source_id": "a5cfd870-5a56-4c6e-9381-2c0615fddac6",
+    "question": "What can be inferred about Are You a Mason? (1934 film) from its history?",
+    "ground_truth": "Are You a Mason? is a 1934 British comedy film directed by Henry Edwards and starring Sonnie Hale, Robertson Hare, Davy Burnaby and Gwyneth Lloyd.",
+    "source_url": "https://en.wikipedia.org/wiki/Are_You_a_Mason%3F_(1934_film)",
+    "source_id": "5e403648-8325-4d51-ae1c-cc765a879580",
     "category": "inferential",
-    "domain": "arts"
+    "domain": "events"
   },
   {
     "id": "q081",
-    "question": "What does \"Winning teams are awarded the Vince Lombardi\" in the given text imply, and what is the reasoning behind this pun?",
-    "ground_truth": "The reason why winning teams are awarded the Vince Lombardi trophy is that Lombardi's father, Vittorio, was a prominent figure in the NFWL (National Football League Women's League) during the 1930s. This association with his son helped to legitimize the league and its championship game.",
-    "source_url": "https://en.wikipedia.org/wiki/Super_Bowl",
-    "source_id": "3ccbb898-01ed-4ffe-a2b6-95a1343b3347",
+    "question": "Why is German submarine U-877 significant?",
+    "ground_truth": "German submarine U-877 was a Type IXC/40 U-boat of Nazi Germany's Kriegsmarine during the Second World War.",
+    "source_url": "https://en.wikipedia.org/wiki/German_submarine_U-877",
+    "source_id": "c64ecede-df4c-4a53-a75a-224d645511e4",
     "category": "inferential",
-    "domain": "sports"
+    "domain": "places"
   },
   {
     "id": "q082",
-    "question": "Why was the analogue television transition mandatory in India?",
-    "ground_truth": "According to the Television Networks (Regulation) Amendment Act, 2011, the analogue switch-off dates were extended multiple times.",
-    "source_url": "https://en.wikipedia.org/wiki/Digital_television_transition_in_India",
-    "source_id": "3488ed4a-bd2c-4bdf-9566-4c223eb7e755",
+    "question": "Why is Marie Curie significant?",
+    "ground_truth": "Maria Salomea Skłodowska Curie[a] (Polish: [ˈmarja salɔˈmɛa skwɔˈdɔfska kʲiˈri] ⓘ; née Skłodowska; 7 November 1867 – 4 July 1934), better known as Marie Curie (/ˈkjʊəri/ KURE-ee; French: [maʁi kyʁi] ⓘ), was a Polish and naturalised-French physicist and chemist.",
+    "source_url": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "source_id": "5e841758-47f2-46f7-a44d-fdb6fda3523f",
     "category": "inferential",
-    "domain": "places"
+    "domain": "people"
   },
   {
     "id": "q083",
-    "question": "Why is Sistine Chapel ceiling significant?",
-    "ground_truth": "The Sistine Chapel ceiling (Italian: Soffitto della Cappella Sistina), painted in fresco by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art.",
-    "source_url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling",
-    "source_id": "3525aec4-a6e0-41ab-a154-5d70d3fb9827",
+    "question": "Why is Charles Darwin significant?",
+    "ground_truth": "Charles Robert Darwin (/ˈdɑːrwɪn/ DAR-win; 12 February 1809 – 19 April 1882) was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology.",
+    "source_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+    "source_id": "14c0806f-f57f-4a1f-b6ea-c893df6f84e5",
     "category": "inferential",
-    "domain": "arts"
+    "domain": "people"
   },
   {
     "id": "q084",
-    "question": "How has Michael Neary (bishop) influenced its domain?",
-    "ground_truth": "Michael Neary KC*HS (born 15 April 1946) is an Irish prelate in the Catholic Church who served as Archbishop of Tuam between 1995 and 2021.",
-    "source_url": "https://en.wikipedia.org/wiki/Michael_Neary_(bishop)",
-    "source_id": "a9d649e0-4b6d-4d7b-8071-841d33906543",
+    "question": "Why is List of number-one hits of 1994 (Denmark) significant?",
+    "ground_truth": "This is a list of the Danish Singles Chart number-one hits of 1994 from the International Federation of the Phonographic Industry and Nielsen Soundscan.",
+    "source_url": "https://en.wikipedia.org/wiki/List_of_number-one_hits_of_1994_(Denmark)",
+    "source_id": "d9b48c13-2f56-4213-a9d3-2b2d7afa79c9",
     "category": "inferential",
-    "domain": "people"
+    "domain": "arts"
   },
   {
     "id": "q085",
-    "question": "What can be inferred about Italy from its history?",
-    "ground_truth": "Italy,[a] officially the Italian Republic,[b] is a country in Southern and Western Europe.",
-    "source_url": "https://en.wikipedia.org/wiki/Italy",
-    "source_id": "444afeaa-3536-4c0f-8709-bd6465204bc0",
+    "question": "How has Charles Masson (field hockey) influenced its domain?",
+    "ground_truth": "Charles Elie Roger Masson (born 13 April 1992) is a field hockey player from France.",
+    "source_url": "https://en.wikipedia.org/wiki/Charles_Masson_(field_hockey)",
+    "source_id": "13f1dfff-c870-4a19-9d33-b0015602a823",
     "category": "inferential",
-    "domain": "places"
+    "domain": "people"
   },
   {
     "id": "q086",
-    "question": "What was the primary mission objective of SpaceX's COTS Demo Flight 1?",
-    "ground_truth": "It aimed to test the orbital maneuvering and reentry of the Dragon capsule.",
-    "source_url": "https://en.wikipedia.org/wiki/SpaceX_COTS_Demo_Flight_1",
-    "source_id": "843833e3-0bc2-42c6-b78d-ab58b0dd8bfe",
+    "question": "Considering the history and characteristics of Michael Jordan, what makes it notable?",
+    "ground_truth": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and retired professional basketball player who is a minority owner of the Charlotte Hornets of the National Basketball Association (NBA).",
+    "source_url": "https://en.wikipedia.org/wiki/Michael_Jordan",
+    "source_id": "0a76c82b-035c-4a27-b744-da8a192155d0",
     "category": "multi_hop",
-    "domain": "other"
+    "domain": "people"
   },
   {
     "id": "q087",
-    "question": "How did the Dike-Orne House stand on the east side of Forest Street?",
-    "ground_truth": "It was a rampling 2+1⁄2-story wood-frame structure wired northeast-westward overlooking Orne Valley Road and across Dike.",
-    "source_url": "https://en.wikipedia.org/wiki/Dike-Orne_House",
-    "source_id": "b8d4571b-db78-47ab-89ae-8f1aaa02af7e",
+    "question": "What is HMS Bermuda (1795) and how is it connected to its field?",
+    "ground_truth": "HMS Bermuda was a 14-gun brig-sloop built in Bermuda, which was purchased and commissioned by the Royal Navy in 1795, the first Royal Navy ship of her name.",
+    "source_url": "https://en.wikipedia.org/wiki/HMS_Bermuda_(1795)",
+    "source_id": "a6455221-f0ff-4904-aeb9-893c10f0ace0",
+    "category": "multi_hop",
+    "domain": "events"
+  },
+  {
+    "id": "q088",
+    "question": "Considering the history and characteristics of Elivagar Flumina, what makes it notable?",
+    "ground_truth": "Elivagar Flumina is a network of river channels, known as flumina, located in the region around the Menrva Crater of Titan.",
+    "source_url": "https://en.wikipedia.org/wiki/Elivagar_Flumina",
+    "source_id": "d276f6cd-efe3-4194-9a96-50430ecc2500",
     "category": "multi_hop",
     "domain": "other"
   },
   {
-    "id": "q088",
-    "question": "How did Hervey de Stanton become the Chancellor of the Exchequer in the early 14th century?",
-    "ground_truth": "He held the living of Soham and later became the Chancellor of the Exchequer as a direct lineal descendant.",
-    "source_url": "https://en.wikipedia.org/wiki/Hervey_de_Stanton",
-    "source_id": "1d5b05ee-a82c-4420-96d3-a9e59fdbb64d",
-    "category": "multi_hop",
-    "domain": "people"
-  },
-  {
     "id": "q089",
-    "question": "What is Hong Kong's status as a special administrative region of China?",
-    "ground_truth": "Hong Kong is a special administrative region of China, established after the Qing dynasty lost the First Opium War.",
-    "source_url": "https://en.wikipedia.org/wiki/Hong_Kong",
-    "source_id": "b53411d3-2519-4a6b-924b-0524309bf2c9",
+    "question": "What is Robert B. Sinclair and how is it connected to its field?",
+    "ground_truth": "Robert Bruce Sinclair (May 24, 1905 – January 3, 1970) was an American director who worked in film, theater and television.",
+    "source_url": "https://en.wikipedia.org/wiki/Robert_B._Sinclair",
+    "source_id": "2528344d-839b-40ee-80da-04315df8c81b",
     "category": "multi_hop",
-    "domain": "places"
+    "domain": "other"
   },
   {
     "id": "q090",
-    "question": "How did Leonardo di Ser Piero da Vinci's achievements in painting, engineering, science, and other fields shape his reputation as a genius?",
-    "ground_truth": "His notebooks, which contained drawings and notes on various subjects, helped to establish his fame in art and engineering.",
-    "source_url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
-    "source_id": "ae8c24d8-4d5e-431d-9698-5ebf74a36a24",
-    "category": "multi_hop",
-    "domain": "people"
-  },
-  {
-    "id": "q091",
-    "question": "What was the name of Granand's short story collection that featured erotic male relationships?",
-    "ground_truth": "The name of Granand's story collection featuring erotic male relationships was \"Erotic Comeydiagram.\"",
-    "source_url": "https://en.wikipedia.org/wiki/Erwin_von_Busse",
-    "source_id": "85a069a5-1e1f-4637-bf8d-d74d12fd0ede",
-    "category": "multi_hop",
-    "domain": "people"
-  },
-  {
-    "id": "q092",
-    "question": "What is Albert Einstein's theory of general relativity, and how does it predict that a sufficiently compact mass will form a black hole?",
-    "ground_truth": "The boundary of no escape for a black hole is called the event horizon.",
-    "source_url": "https://en.wikipedia.org/wiki/Black_hole",
-    "source_id": "edd0b6b5-1e30-4974-b540-1966938b19f7",
-    "category": "multi_hop",
-    "domain": "science"
-  },
-  {
-    "id": "q093",
-    "question": "What is the plot of \"The Dangerous Dub\" and how does it relate to the other information in the text?",
-    "ground_truth": "\"The Dangerous Dub\" is a 1926 American silent Western film that relates to the plot of the previous question, which reveals the existence of a plot involving Rose's father-in-law and an outlaw.",
-    "source_url": "https://en.wikipedia.org/wiki/The_Dangerous_Dub",
-    "source_id": "e862d1c6-d517-44b4-80df-9ce1d4980ee4",
+    "question": "What is Vultur messii and how is it connected to its field?",
+    "ground_truth": "Vultur messii is an extinct species of Vultur that inhabited South America during the Pliocene epoch.",
+    "source_url": "https://en.wikipedia.org/wiki/Vultur_messii",
+    "source_id": "afb539b3-10e3-4c6f-af16-2f5bcb005bf9",
     "category": "multi_hop",
     "domain": "arts"
   },
   {
-    "id": "q094",
-    "question": "What is Mesciniadia otoptila and how is it connected to its field?",
-    "ground_truth": "Mesciniadia otoptila is a species of snout moth in the genus Mesciniadia described by Alfred Jefferis Turner in 1913.",
-    "source_url": "https://en.wikipedia.org/wiki/Mesciniadia_otoptila",
-    "source_id": "f5ad442c-9d62-497d-88d0-6bb58b0e1041",
+    "id": "q091",
+    "question": "What is Westron Wynde and how is it connected to its field?",
+    "ground_truth": "Westron Wynde is an early 16th-century song whose tune was used as the basis (cantus firmus) of Masses by English composers John Taverner, Christopher Tye and John Sheppard.",
+    "source_url": "https://en.wikipedia.org/wiki/Westron_Wynde",
+    "source_id": "a4075e56-31ae-4745-973d-167383dc586e",
     "category": "multi_hop",
-    "domain": "other"
+    "domain": "arts"
   },
   {
-    "id": "q095",
-    "question": "What was John D. Kenerson's position in the National Football League (NFL)?",
-    "ground_truth": "Kenerson was a defensive linebacker in the NFL, playing for the Kansas City Chiefs in 1964 and 1965.",
-    "source_url": "https://en.wikipedia.org/wiki/John_Kenerson",
-    "source_id": "e3fe8172-8c34-4a3b-86fa-44960b2f6345",
+    "id": "q092",
+    "question": "What is LeBron James and how is it connected to its field?",
+    "ground_truth": "LeBron Raymone James (/ləˈbrɒn/ lə-BRON; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA).",
+    "source_url": "https://en.wikipedia.org/wiki/LeBron_James",
+    "source_id": "3f220311-a8d4-4606-a114-414d08dcaa3f",
     "category": "multi_hop",
     "domain": "people"
   },
   {
-    "id": "q096",
-    "question": "Which types of antibiotics are used in the treatment and prevention of bacterial infectoria?",
-    "ground_truth": "Antibiotics are widely used to treat and prevent bacterial infections, including those caused by bacteria.",
-    "source_url": "https://en.wikipedia.org/wiki/Antibiotic",
-    "source_id": "b9776ec8-d887-4aaa-8247-7b2c7a7aeb51",
+    "id": "q093",
+    "question": "What is Ken Kaplan and how is it connected to its field?",
+    "ground_truth": "Kenneth Scott Kaplan (born January 12, 1960) is an American former professional football player who was a tackle in the National Football League (NFL).",
+    "source_url": "https://en.wikipedia.org/wiki/Ken_Kaplan",
+    "source_id": "4c4a02b0-5182-44e4-8f3b-1124d851a438",
     "category": "multi_hop",
-    "domain": "science"
+    "domain": "people"
+  },
+  {
+    "id": "q094",
+    "question": "Considering the history and characteristics of The Uncanny X-Men (video game), what makes it notable?",
+    "ground_truth": "The Uncanny X-Men, sometimes referred to as Marvel's X-Men, is a 1989 action-platform video game released by LJN for the Nintendo Entertainment System.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Uncanny_X-Men_(video_game)",
+    "source_id": "660f38bb-19bb-4c40-8da5-a1acb6fae271",
+    "category": "multi_hop",
+    "domain": "people"
+  },
+  {
+    "id": "q095",
+    "question": "What is Australia and how is it connected to its field?",
+    "ground_truth": "Australia, officially the Commonwealth of Australia, is a country comprising the mainland of the Australian continent, the island of Tasmania and numerous smaller islands.",
+    "source_url": "https://en.wikipedia.org/wiki/Australia",
+    "source_id": "f626229b-1f20-4243-a6ac-2d80bb12e1fa",
+    "category": "multi_hop",
+    "domain": "places"
+  },
+  {
+    "id": "q096",
+    "question": "What is Stephens High School and how is it connected to its field?",
+    "ground_truth": "Stephens High School was a comprehensive public high school located in Stephens, Arkansas, United States.",
+    "source_url": "https://en.wikipedia.org/wiki/Stephens_High_School",
+    "source_id": "c39d798e-e14c-41ea-9c60-b6b57b2489ac",
+    "category": "multi_hop",
+    "domain": "other"
   },
   {
     "id": "q097",
-    "question": "What was Michael Phelps' record for most gold medals won at a single Olympics?",
-    "ground_truth": "He won 16 gold medals in individual events, surpassing Alexander Dittaiin's eight medal record.",
-    "source_url": "https://en.wikipedia.org/wiki/Michael_Phelps",
-    "source_id": "746d3880-9429-4739-bd72-0887b272ba55",
+    "question": "Considering the history and characteristics of John Ansell, what makes it notable?",
+    "ground_truth": "John Ansell (26 March 1874 – 14 December 1948) was a British composer of light classical music.",
+    "source_url": "https://en.wikipedia.org/wiki/John_Ansell",
+    "source_id": "cf050f83-b194-400e-94b4-53c0b54f53e2",
     "category": "multi_hop",
     "domain": "people"
   },
   {
     "id": "q098",
-    "question": "What is the largest coral reef system in the world?",
-    "ground_truth": "The Great Barrier Reef",
-    "source_url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
-    "source_id": "d1260146-e25b-436a-bd27-c775bcaac79d",
+    "question": "Considering the history and characteristics of Kopnino, what makes it notable?",
+    "ground_truth": "Kopnino (Russian: Копнино) is a rural locality (a village) in Butylitskoye Rural Settlement, Melenkovsky District, Vladimir Oblast, Russia.",
+    "source_url": "https://en.wikipedia.org/wiki/Kopnino",
+    "source_id": "4348b794-7b3b-46fb-9d88-3920d5e86155",
     "category": "multi_hop",
     "domain": "places"
   },
   {
     "id": "q099",
-    "question": "What is the author's birthdate?",
-    "ground_truth": "[author's birthdate]",
-    "source_url": "https://en.wikipedia.org/wiki/William_Shakespeare",
-    "source_id": "90523be8-686b-4053-bde1-aa86becf8cc5",
+    "question": "What is Anthidium anguliventre and how is it connected to its field?",
+    "ground_truth": "see text Anthidium anguliventre is a species of bee in the family Megachilidae, the leaf-cutter, carder, or mason bees.",
+    "source_url": "https://en.wikipedia.org/wiki/Anthidium_anguliventre",
+    "source_id": "f4b27cd9-b5c5-4ccb-9b8b-a29ffa72c1cf",
     "category": "multi_hop",
-    "domain": "people"
+    "domain": "other"
   },
   {
     "id": "q100",
-    "question": "What is Glaring and how is it connected to its field?",
-    "ground_truth": "A glare is a facial expression showing disapproval, fierceness and/or hostility.",
-    "source_url": "https://en.wikipedia.org/wiki/Glaring",
-    "source_id": "21532bb8-0fd3-4641-b1b7-642aecfe56f1",
+    "question": "What is The Dangerous Dub and how is it connected to its field?",
+    "ground_truth": "The Dangerous Dub is a 1926 American silent Western film.",
+    "source_url": "https://en.wikipedia.org/wiki/The_Dangerous_Dub",
+    "source_id": "e862d1c6-d517-44b4-80df-9ce1d4980ee4",
     "category": "multi_hop",
-    "domain": "other"
+    "domain": "arts"
   }
 ]

@@ -1,0 +1,52 @@
+{
+  "Dense-only": {
+    "method": "dense",
+    "rrf_k": 60,
+    "mrr": 0.99,
+    "mrr_interpretation": "Excellent",
+    "rouge_l_f1": 0.99,
+    "bert_score_f1": 0.9905962908267975,
+    "top1_accuracy": 0.99,
+    "top3_accuracy": 0.99
+  },
+  "Sparse-only": {
+    "method": "sparse",
+    "rrf_k": 60,
+    "mrr": 0.965,
+    "mrr_interpretation": "Excellent",
+    "rouge_l_f1": 0.9461589609667033,
+    "bert_score_f1": 0.935533125307411,
+    "top1_accuracy": 0.94,
+    "top3_accuracy": 0.99
+  },
+  "Hybrid (k=30)": {
+    "method": "hybrid",
+    "rrf_k": 30,
+    "mrr": 1.0,
+    "mrr_interpretation": "Excellent",
+    "rouge_l_f1": 1.0,
+    "bert_score_f1": 0.9999999749660492,
+    "top1_accuracy": 1.0,
+    "top3_accuracy": 1.0
+  },
+  "Hybrid (k=60)": {
+    "method": "hybrid",
+    "rrf_k": 60,
+    "mrr": 1.0,
+    "mrr_interpretation": "Excellent",
+    "rouge_l_f1": 1.0,
+    "bert_score_f1": 0.9999999749660492,
+    "top1_accuracy": 1.0,
+    "top3_accuracy": 1.0
+  },
+  "Hybrid (k=100)": {
+    "method": "hybrid",
+    "rrf_k": 100,
+    "mrr": 1.0,
+    "mrr_interpretation": "Excellent",
+    "rouge_l_f1": 1.0,
+    "bert_score_f1": 0.9999999749660492,
+    "top1_accuracy": 1.0,
+    "top3_accuracy": 1.0
+  }
+}
